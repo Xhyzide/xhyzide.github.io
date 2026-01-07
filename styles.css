@@ -132,6 +132,19 @@ section h2 {
     margin-bottom: 1rem;
 }
 
+.project-link {
+    display: inline-block;
+    margin-top: 1rem;
+    color: #667eea;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s;
+}
+
+.project-link:hover {
+    color: #764ba2;
+}
+
 /* Contact Section */
 .contact {
     background: #f8f9fa;
